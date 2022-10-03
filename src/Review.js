@@ -30,6 +30,8 @@ const Review = () => {
     });
   };
 
+  const randomPerson = () => {};
+
   return (
     <article className="review">
       <div className="img-container">
